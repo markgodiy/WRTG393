@@ -13,8 +13,8 @@ Whether you're seeking a serene workspace with quality coffee, planning a meetin
    ![Homepage of Black Lion Cafe](#)
 
 2. **Browse the Coffee Menu**:
-   - Click on the ‘Menu’ option.
-   - Scroll to the ‘Coffee’ section to view the available selections.
+   - Click on the ‘Menu’ option from the top navigation bar.
+   - Scroll to the ‘Drink’ section to view the available selections.
    - Note: Each coffee type includes a brief description and price.
 
    ![Coffee Menu Section](#)
@@ -75,7 +75,10 @@ Whether you're seeking a serene workspace with quality coffee, planning a meetin
     ![Order Confirmation](#)
 
 ### Accommodating Personas:
+
 - **Emma Johnson**: The website's clear layout and detailed descriptions of coffee types cater to Emma's preference for specific coffee flavors and environmentally-friendly options.
+
 - **Michael Rodriguez**: The ease of adjusting quantities in the cart and straightforward checkout process facilitates Michael's bulk orders for business meetings.
+
 - **Sarah Lee**: Detailed coffee descriptions and educational content about the origin and flavor profiles cater to Sarah’s interest in coffee culture and education.
 
