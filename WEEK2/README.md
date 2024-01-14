@@ -40,7 +40,7 @@ The following resources provide excellent tips in writing instructions:
 
 [Writing Commons: Creating Rhetorically Effective Instruction Manuals]()
 
-[Technical Writing for Business People](Technical_Writing_for_Business.pdf)
+[Technical Writing for Business People](../Technical_Writing_for_Business.pdf)
 
 [Video Tutorial: Tips on Writing Instructions for a Website](https://app.screencast.com/qJUoIjhZjAdfI)
 
