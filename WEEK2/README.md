@@ -28,17 +28,17 @@ You will respond to two discussion topics:
 [Personas_in_Writing.pdf](WEEK2\Week2_LearningResource_Personas_in_Writing.pdf)
 
 Additional Resources on Writing Instructions
-Resources on Writing Instructions
+[Resources on Writing Instructions](https://leocontent.umgc.edu/content/umuc/tus/wrtg/wrtg393/2228/modules/resources-on-writing-instructions.html)
 
 The following resources provide excellent tips in writing instructions:
 
-[Technical Writing Essentials: Writing Instructions]()
+[Technical Writing Essentials: Writing Instructions](https://pressbooks.bccampus.ca/technicalwriting/chapter/writinginstructions/)
 
-[Wikibooks: Professional and Technical Writing--Instructions]()
+[Wikibooks: Professional and Technical Writing--Instructions](https://en.wikibooks.org/wiki/Professional_and_Technical_Writing/Instructions)
 
-[Jerz's Literacy Weblog: How to Write Guides for Busy Grouches]()
+[Jerz's Literacy Weblog: How to Write Guides for Busy Grouches](https://jerz.setonhill.edu/writing/technical-writing/instructions-how-to-write-for-busy-grouchy-people/)
 
-[Writing Commons: Creating Rhetorically Effective Instruction Manuals]()
+[Writing Commons: Creating Rhetorically Effective Instruction Manuals](https://writingcommons.org/article/creating-rhetorically-effective-instruction-manuals/)
 
 [Technical Writing for Business People](../Technical_Writing_for_Business.pdf)
 
