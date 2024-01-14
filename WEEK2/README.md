@@ -1,10 +1,10 @@
 # Welcome to Week 2 of WRTG 393!
 
-This week, you will complete the following tasks:
+This week, complete the following tasks:
 
 - Examine an article by Matt Eland about personas. [Personas_in_Writing.pdf](WEEK2\Week2_LearningResource_Personas_in_Writing.pdf)
 
-- Read through several learning resources on how to write instructions.
+- Read through several learning resources on how to write instructions. [Learning Resources](#learning-resources)
 
 - Watch a video tutorial on tips for writing instructions for a website.
 
@@ -36,7 +36,7 @@ You will respond to two discussion topics:
 
 - You will also submit Writing Assignment #1, which involves creating three personas.
 
-## Learning Resources
+## [Learning Resources](#learning-resources)
 
 <!-- link to Week2 Learning Resource -->
 [Personas_in_Writing.pdf](WEEK2\Week2_LearningResource_Personas_in_Writing.pdf)
