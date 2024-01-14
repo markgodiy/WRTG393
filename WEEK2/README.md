@@ -16,7 +16,7 @@ You will respond to two discussion topics:
 
 1. **Discussion 1** The first discussion topic asks you to complete various exercises designed to help you become familiar with UMGC’s library OneSearch interface. Discussion 1 tasks [link](#Discussion2-OneSearch)
 
-2. **Discussion 2** The second discussion topic asks you to examine a website for  [PARC](#PARC) principles. Then examine the website for the James Bond 007 museum: http://www.007museum.com/ .  In your response, discuss how the website does or does not follow the principles of PARC.
+2. **Discussion 2** The second discussion topic asks you to examine a website for  [PARC](#Discussion2_PARC) principles. Then examine the website for the James Bond 007 museum: http://www.007museum.com/ .  In your response, discuss how the website does or does not follow the principles of PARC.
 
 ## Writing Assignment
 
@@ -85,7 +85,7 @@ If you have the same major as another student in the class, this would be a grea
 
 
 
-## [Discussion2 PARC](#PARC)
+## [Discussion2 PARC](#Discussion2_PARC)
 
 - Proximity, Alignment, Repetition, and Contrast (PARC) are four principles of design that you will use in writing assignment #2.
 
