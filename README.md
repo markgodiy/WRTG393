@@ -32,19 +32,19 @@ Dates: 01/10/2024 - 03/06/2024
 #### Week 1 Discussions 01/10 - 01/16
   
 - :bookmark_tabs: 01/12: Discussion 1A, Review WA1 WA2 Sample Papers
-- 01/12: Discussion 1B, Personas - Getting Started
+- :bookmark_tabs: 01/12: Discussion 1B, Personas - Getting Started
 
 #### Week 2 01/17 - 01/23
 
-- 01/19: Discussion 2A, Becoming Familiar with PARC
-- 01/19: Discussion 2B, Exercises on Library Tutorials
+- :bookmark_tabs: 01/19: Discussion 2A, Becoming Familiar with PARC
+- :bookmark_tabs: 01/19: Discussion 2B, Exercises on Library Tutorials
 
     :warning: <span style="color:yellow">01/23 Writing Assignment 1, Personas</span>
 
 #### Week 3 01/24 - 01/30
 
-- 01/26 Discussion 3A: Quick Start Guides
-- 01/26 Discussion 3B: Preparing for WA4, the Report to the Supervisor
+- :bookmark_tabs: 01/26 Discussion 3A: Quick Start Guides
+- :bookmark_tabs: 01/26 Discussion 3B: Preparing for WA4, the Report to the Supervisor
 
     :warning: <span style="color:yellow">01/30 Writing Assignment 2,  Website Instructions</span>
 
@@ -52,34 +52,34 @@ Dates: 01/10/2024 - 03/06/2024
 
 #### Week 4 01/31 - 02/06
 
-- 02/02 Discussion 4A: Preparing for WA5, the Resume/Cover Letter/PARC Summary
-- 02/02 Discussion 4B: Analyzing Two Websites for PARC Concepts
+- :bookmark_tabs: 02/02 Discussion 4A: Preparing for WA5, the Resume/Cover Letter/PARC Summary
+- :bookmark_tabs: 02/02 Discussion 4B: Analyzing Two Websites for PARC Concepts
 
     :warning: <span style="color:yellow">02/06 Writing Assignment 3, Quick Start Guide</span>
  
 
 #### Week 5 02/07 - 02/13
 
-- 02/09 Discussion 5A: Resume and Cover Letter Tips from UMGC’s Career Services Unit
-- 02/09 Discussion 5B: Analyzing a Set of Instructions Written by ChatGPT
+- :bookmark_tabs: 02/09 Discussion 5A: Resume and Cover Letter Tips from UMGC’s Career Services Unit
+- :bookmark_tabs: 02/09 Discussion 5B: Analyzing a Set of Instructions Written by ChatGPT
 
     :warning: <span style="color:yellow">02/13 Writing Assignment 4, Report to the Supervisor</span>
 
 #### Week 6 02/14 - 02/20
 
-- 02/16 Discussion 6A: Examining PARC for Resumes
-- 02/16 Discussion 6B: The Gunning Fog Index
+- :bookmark_tabs: 02/16 Discussion 6A: Examining PARC for Resumes
+- :bookmark_tabs: 02/16 Discussion 6B: The Gunning Fog Index
 
 #### Week 7 02/21 - 02/27
 
-- 02/23 Discussion 7A: Data Visualization
-- 02/23 Discussion 7B: Visual Rhetorical Figures
+- :bookmark_tabs: 02/23 Discussion 7A: Data Visualization
+- :bookmark_tabs: 02/23 Discussion 7B: Visual Rhetorical Figures
 
     :warning: <span style="color:yellow">02/27 Writing Assignment 5, Resume and Cover Letter with Summary of PARC</span>
 
 #### Week 8 02/28 - 03/06
 
-- 03/02 Discussion 8A: Posting a Draft of Your Resume
+- :bookmark_tabs: 03/02 Discussion 8A: Posting a Draft of Your Resume
 
     :warning: <span style="color:yellow">03/05 Final Assignment, Presentation</span>
 
