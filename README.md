@@ -13,7 +13,7 @@ Dates: 01/10/2024 - 03/06/2024
 
 | Assignment | Topic | Points | Due Date | Links | Example |
 |-|-|-|-|-|-|
-| WA1 | Three Personas | 50 | 01/23 | [instruction_guide](Writing_Assignment_Guides\WRTG393_WA1_Personas_2024_ff_.pdf) | [example](Writing_Assignment_Guides/WRTG393_WA1_Example_Personas.pdf) |
+| WA1 | Three Personas | 50 | 01/23 | [instruction_guide](Writing_Assignment_Guides/WRTG393_WA1_Personas_2024_ff_.pdf) | [example](Writing_Assignment_Guides/WRTG393_WA1_Example_Personas.pdf) |
 | WA2 | Website instructions | 120 | 01/30 | [instruction_guide](Writing_Assignment_Guides/WRTG393_WA2_Website_Instructions_2024_ff_.pdf) |[example](Writing_Assignment_Guides/WRTG393_WA2_Example_Website_Instruction.pdf) |
 | WA3 | Quick Start Guide | 50 | 02/06 | [instruction_guide](Writing_Assignment_Guides\WRTG393_WA3_Quick_Start_Guide_2024_ff_.pdf)| [example](Writing_Assignment_Guides/WRTG393_WA3_Example_QuickStart.pdf) |  
 | WA4 | Report to Supervisor | 285 | 02/13 | [instruction_guide](Writing_Assignment_Guides\WRTG393_WA4_Report_to_Supervisor_2024_ff_.pdf)| [example](Writing_Assignment_Guides/WRTG393_WA4_Example_Report_to_Supervisor.pdf), [ex_scenario](Writing_Assignment_Guides/WRTG393_WA4_Example_Scenario.pdf) |
