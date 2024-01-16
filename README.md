@@ -31,7 +31,7 @@ Dates: 01/10/2024 - 03/06/2024
 
 #### Week 1 Discussions 01/10 - 01/16
   
-- 01/12: Discussion 1A, Review WA1 WA2 Sample Papers
+- :bookmark_tabs: 01/12: Discussion 1A, Review WA1 WA2 Sample Papers
 - 01/12: Discussion 1B, Personas - Getting Started
 
 #### Week 2 01/17 - 01/23
@@ -39,14 +39,14 @@ Dates: 01/10/2024 - 03/06/2024
 - 01/19: Discussion 2A, Becoming Familiar with PARC
 - 01/19: Discussion 2B, Exercises on Library Tutorials
 
-    :warning:<span style="color:yellow">01/23 Writing Assignment 1, Personas</span>:warning:
+    :warning: <span style="color:yellow">01/23 Writing Assignment 1, Personas</span>
 
 #### Week 3 01/24 - 01/30
 
 - 01/26 Discussion 3A: Quick Start Guides
 - 01/26 Discussion 3B: Preparing for WA4, the Report to the Supervisor
 
-    <span style="color:yellow">01/30 Writing Assignment 2,  Website Instructions</span>
+    :warning: <span style="color:yellow">01/30 Writing Assignment 2,  Website Instructions</span>
 
 
 
@@ -55,7 +55,7 @@ Dates: 01/10/2024 - 03/06/2024
 - 02/02 Discussion 4A: Preparing for WA5, the Resume/Cover Letter/PARC Summary
 - 02/02 Discussion 4B: Analyzing Two Websites for PARC Concepts
 
-    <span style="color:yellow">02/06 Writing Assignment 3, Quick Start Guide</span>
+    :warning: <span style="color:yellow">02/06 Writing Assignment 3, Quick Start Guide</span>
  
 
 #### Week 5 02/07 - 02/13
@@ -63,7 +63,7 @@ Dates: 01/10/2024 - 03/06/2024
 - 02/09 Discussion 5A: Resume and Cover Letter Tips from UMGC’s Career Services Unit
 - 02/09 Discussion 5B: Analyzing a Set of Instructions Written by ChatGPT
 
-    <span style="color:yellow">02/13 Writing Assignment 4, Report to the Supervisor</span>
+    :warning: <span style="color:yellow">02/13 Writing Assignment 4, Report to the Supervisor</span>
 
 #### Week 6 02/14 - 02/20
 
@@ -75,11 +75,11 @@ Dates: 01/10/2024 - 03/06/2024
 - 02/23 Discussion 7A: Data Visualization
 - 02/23 Discussion 7B: Visual Rhetorical Figures
 
-    <span style="color:yellow">02/27 Writing Assignment 5, Resume and Cover Letter with Summary of PARC</span>
+    :warning: <span style="color:yellow">02/27 Writing Assignment 5, Resume and Cover Letter with Summary of PARC</span>
 
 #### Week 8 02/28 - 03/06
 
 - 03/02 Discussion 8A: Posting a Draft of Your Resume
 
-    <span style="color:yellow">03/05 Final Assignment, Presentation</span>
+    :warning: <span style="color:yellow">03/05 Final Assignment, Presentation</span>
 
