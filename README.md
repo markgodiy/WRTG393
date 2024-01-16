@@ -39,7 +39,7 @@ Dates: 01/10/2024 - 03/06/2024
 - 01/19: Discussion 2A, Becoming Familiar with PARC
 - 01/19: Discussion 2B, Exercises on Library Tutorials
 
-    <span style="color:yellow">01/23 Writing Assignment 1, Personas</span>
+    :warning:<span style="color:yellow">01/23 Writing Assignment 1, Personas</span>:warning:
 
 #### Week 3 01/24 - 01/30
 
