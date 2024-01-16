@@ -2,23 +2,23 @@
 
 **WRTG 393 Advanced Technical Writing**
 
-Hello, Steve and Ryan!  
+Dates: 01/10/2024 - 03/06/2024
 
-![Alt text](image.png)
+![Distraction Monkey!](image.png)
 
 ## Graded Items
 
 ### Writing Assignments
 
 
-| Assignment | Topic | Points | Due Date |
-|-|-|-|-|
-| WA1 | Three Personas | 50 | 01/23 |
-| WA2 | Website instructions | 120 | 01/30 |
-| WA3 | Quick Start Guide | 50 | 02/06 | 
-| WA4 | Report to Supervisor | 285 | 02/13 |
-| WA5 | Resume Cover Leter PARC | 150 | 02/27 |
-| Final Assignment | Presentation | 105 | 03/05 |
+| Assignment | Topic | Points | Due Date | Links | 
+|-|-|-|-|-|
+| WA1 | Three Personas | 50 | 01/23 | [guide](Writing_Assignment_Guides\WRTG393_WA1_Personas_2024_ff_.pdf) [example](Writing_Assignment_Guides\WRTG393_WA1_Example_Personas.pdf) |
+| WA2 | Website instructions | 120 | 01/30 | [guide](Writing_Assignment_Guides\WRTG393_WA2_Website_Instructions_2024_ff_.pdf) [example](Writing_Assignment_Guides\WRTG393_WA2_Example_Website_Instruction.pdf) |
+| WA3 | Quick Start Guide | 50 | 02/06 | [guide](Writing_Assignment_Guides\WRTG393_WA3_Quick_Start_Guide_2024_ff_.pdf) |  
+| WA4 | Report to Supervisor | 285 | 02/13 | [guide](Writing_Assignment_Guides\WRTG393_WA4_Report_to_Supervisor_2024_ff_.pdf) |
+| WA5 | Resume Cover Leter PARC | 150 | 02/27 | [guide](Writing_Assignment_Guides\WRTG393_WA5_Resume_Cover_Letter_PARC_2024_ff_.pdf) |
+| Final Assignment | Presentation | 105 | 03/05 | [guide](Writing_Assignment_Guides\WRTG393_Final_Assignment_Presentation_2024_ff_.pdf) |
 ||(Total)|705||
 
 
@@ -82,12 +82,4 @@ Hello, Steve and Ryan!
 - 03/02 Discussion 8A: Posting a Draft of Your Resume
 
     <span style="color:yellow">03/05 Final Assignment, Presentation</span>
-
-
-
-<!-- Markdown table of all discussions and assignments -->
-
-
-
-
 
